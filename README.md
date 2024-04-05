@@ -20,10 +20,10 @@ An adjacency list can be represented using various programming languages, each w
 
 # Example of an adjacency list representation in Python
 graph = {
-    'A': ['B', 'C'],
-    'B': ['A', 'C', 'D'],
-    'C': ['A', 'B', 'D'],
-    'D': ['B', 'C']
+'A': ['B', 'C'],
+'B': ['A', 'C', 'D'],
+'C': ['A', 'B', 'D'],
+'D': ['B', 'C']
 }
 
 In this example:
